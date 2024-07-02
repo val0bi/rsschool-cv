@@ -2,9 +2,9 @@
 
 ## **Contacts**
 * Location: Minsk, Republic of Belarus
-* Phone: (+375333019744)  
+* Phone: +375333019744  
 * E-mail: lerochka0427@gmail.com    
-* GitHub: (val0bi)
+* GitHub: val0bi
 
 ## **About Me**
 As it is clear from what is written above, my name is Valeria, I am 24 years old. 
